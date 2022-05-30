@@ -19,7 +19,7 @@ export const Input = ({
       />
       <img
         src={rightLogo}
-        width="17px"
+        width="18px"
         alt=""
         onClick={rightLogoOnClick}
         style={{ position: "relative", marginLeft: "11.5%" }}

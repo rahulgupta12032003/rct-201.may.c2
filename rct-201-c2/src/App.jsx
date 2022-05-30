@@ -24,6 +24,8 @@ function App() {
         onChange={onChange}
         type={type}
         size="xl"
+        height="25px"
+        width="30%"
         variant="filled"
         rightLogoOnClick={rightLogoOnClick}
         rightLogo={Eye}
@@ -33,8 +35,8 @@ function App() {
         src="https://image.shutterstock.com/image-photo/head-shot-portrait-close-smiling-260nw-1714666150.jpg"
         alt=""
         borderRadius={100}
-        width={100}
-        height={100}
+        width={200}
+        height={200}
         fit="cover"
       />
 
